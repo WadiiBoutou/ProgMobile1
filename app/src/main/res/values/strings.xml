@@ -1,0 +1,18 @@
+<resources>
+    <string name="recap_title">Récapitulatif</string>
+    <string name="app_name">Formulaire</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="selectionner">Sélectionner une ville</string>
+    <string name="adresse">Adresse</string>
+    <string name="telephone">Téléphone</string>
+    <string name="email">Email</string>
+    <string name="nom"><![CDATA[Nom & Prénom]]></string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>Tanger</item>
+        <item>Agadir</item>
+        <item>CasaBlanca</item>
+    </array>
+</resources>
